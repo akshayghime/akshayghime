@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Vijay Ghime
-- 👀 I’m interested in Web Development and Data analysis
-- 🌱 I’m currently learning advanced use of python, HTML, CSS, JS
+- 👀 I’m interested in ML and Data analysis
+- 🌱 I’m currently learning advanced use of python, MLOPS
 - 💞️ I’m looking to collaborate on various web dev ,Data anlytics and machine learning projects.
 
 <!---
