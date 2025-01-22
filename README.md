@@ -30,7 +30,6 @@
 
 💼 LinkedIn
 🐦 Twitter
-📧 Email: akshayghime@gmail.com
 
 🔔 Follow me for MLOps insights & projects! 🚀
 <!---
